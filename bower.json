@@ -1,0 +1,20 @@
+{
+  "name": "Vivus",
+  "authors": [
+    "Zoerab Tchahkiev <zoerab.tchahkiev@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vivus": "^0.3.0"
+  }
+}
